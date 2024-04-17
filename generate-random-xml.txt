@@ -1,0 +1,11 @@
+<root>
+  <animal vast="instant">early</animal>
+  <unless chart="station">wrote</unless>
+  <lamp general="caught">
+    <!--shells-->
+    <importance substance="cave">along</importance>
+    <forgotten>different</forgotten>
+    <!--score sister-->
+    <suit cabin="discuss">basic</suit>
+  </lamp>
+</root>
