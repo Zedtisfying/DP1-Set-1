@@ -1,0 +1,11 @@
+<company>
+  <name>4545</name>
+  <address>
+    <street>{{street}}</street>
+    <city>5555</city>
+    <state>23</state>
+    <zip>443{{zip}}</zip>
+  </address>
+  <ceo>4</ceo>
+  <dateCreated>3</dateCreated>
+</company>
