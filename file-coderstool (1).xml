@@ -1,0 +1,11 @@
+<company>
+  <name>{{company}}</name>
+  <address>
+    <street>{{street}}</street>
+    <city>5555</city>
+    <state>23</state>
+    <zip>{{statecode}}{{zip}}</zip>
+  </address>
+  <ceo>4</ceo>
+  <dateCreated>{{date}}</dateCreated>
+</company>Field TagsField Tags
